@@ -1,0 +1,56 @@
+[
+    {
+        "context": "Grade Card",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What if I need to know my correct CGPA?",
+                "answers": [
+                    {
+                        "text": "CGPA is seen on the grade card. The CGPA count can be verified by referring to the passing criteria mentioned in Exam Ordinance 2020",
+                        "answer_start": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Corrections on grade card /PDC.",
+        "qas": [
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "My name/Fathers Name/Mother's name is incorrect on grade card. How do I get it corrected?",
+                "answers": [
+                    {
+                        "text": "Name correction on grade cards/PDC needs to be done in ERP at the office of student section of your Department. Kindly contact the office of student section for the making the required corrections in ERP. Moreover, student must check his/her personal details from time to time in their ERP login.",
+                        "answer_start": 1
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How can I get a new copy of corrected grade cards?",
+                "answers": [
+                    {
+                        "text": "Once the required corrections are done in ERP, You can apply for corrected grade cards by filling and sending the student assistance form (https://mitwpu.edu.in/images/documents/Student-Assistant-Form.pdf) having verification remark from student section along with scan copies of grade cards and screenshot of grade card in ERP that reflects the required corrections to exam.helpdesk@mitwpu.edu.in. In the assistant form, clearly mention details of grade cards in which corrections are required (i.eTrimester no., Regular/Backlog, Month & Year).Submit the original grade cards at Department for Examination.",
+                        "answer_start": 1
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": true,
+                "question": "In how many days will I get the corrected grade cards?",
+                "answers": [
+                    {
+                        "text": "Processing of correction on grade cards will take minimum 4 working days after you submit all the required documents at the Department of Examination.",
+                        "answer_start": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
