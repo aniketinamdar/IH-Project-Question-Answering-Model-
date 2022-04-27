@@ -1,6 +1,6 @@
 [
     {
-        "context": "Grade Card",
+        "context": "CGPA is seen on the grade card. The CGPA count can be verified by referring to the passing criteria mentioned in Exam Ordinance 2020",
         "qas": [
             {
                 "id": "00001",
@@ -8,15 +8,15 @@
                 "question": "What if I need to know my correct CGPA?",
                 "answers": [
                     {
-                        "text": "CGPA is seen on the grade card. The CGPA count can be verified by referring to the passing criteria mentioned in Exam Ordinance 2020",
-                        "answer_start": 1
+                        "text": "grade card",
+                        "answer_start": 21
                     }
                 ]
             }
         ]
     },
     {
-        "context": "Corrections on grade card /PDC.",
+        "context": "Name correction on grade cards/PDC needs to be done in ERP at the office of student section of your Department. Kindly contact the office of student section for the making the required corrections in ERP. Moreover, student must check his/her personal details from time to time in their ERP login.",
         "qas": [
             {
                 "id": "00002",
@@ -24,8 +24,8 @@
                 "question": "My name/Fathers Name/Mother's name is incorrect on grade card. How do I get it corrected?",
                 "answers": [
                     {
-                        "text": "Name correction on grade cards/PDC needs to be done in ERP at the office of student section of your Department. Kindly contact the office of student section for the making the required corrections in ERP. Moreover, student must check his/her personal details from time to time in their ERP login.",
-                        "answer_start": 1
+                        "text": "ERP",
+                        "answer_start": 55
                     }
                 ]
             },
