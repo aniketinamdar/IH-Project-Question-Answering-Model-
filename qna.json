@@ -1,0 +1,22 @@
+{
+    "question": {
+        "0": "What if I need to know my correct CGPA?",
+        "1": "I have cleared my backlog but the result sheet does not show GPA and CGPA. Why?",
+        "2": "I have cleared my backlog, but the result on ERP is not updated .It still shows earlier CGPA.As a result, it is affecting my CGPA of next trimesters also. How do I get it corrected?",
+        "3": "What do I do if I have not received my grade card?",
+        "4": "My name,Father's Name,Mother's name is incorrect on grade card. How do I get it corrected?",
+        "5": "How can I get a new copy of corrected grade cards?",
+        "6": "From where should I collect the corrected grade cards/PDC?",
+        "7": "In how many days will I get the corrected grade cards?"
+    },
+    "answer": {
+        "0": "CGPA is seen on the grade card. The CGPA count can be verified by referring to the passing    criteria    mentioned    in    Exam    Ordinance    2020(https://mitwpu.edu.in/examination/images/documents/Examination Ordinances 2020.pdf)",
+        "1": " GPA and CGPA are not mentioned on backlog grade cards. GPA, CGPA will be highlighted on regular trimester grade card only.",
+        "2": " Grade card shows first attempt GPA and CGPA only. Hence, even if you have cleared backlog, improved CGPA for that trimester will not be seen on grade card.",
+        "3": " Name correction on grade cards/PDC needs to be done in ERP at the office of student section of your Department. Kindly contact the office of student section for the making the required corrections in ERP. Moreover, student must check his/her personal details from time to time in their ERP login.",
+        "4": " Once the required corrections are done in ERP, You can apply for corrected grade cards by    filling    and    sending    the    student    assistance    form (https://mitwpu.edu.in/imaoes/documents/Student-Assistant-Form.pdf)  having  verification remark from student section along with scan copies of grade cards and screenshot of grade card in ERP that reflects the required corrections to exam.helpdesk@mitwpu.edu.in. In the assistant form, clearly mention details of grade cards in which corrections are required (i.eTrimester no., Regular/Backlog, Month & Year).Submit the original grade cards at Department for Examination.",
+        "5": " You have to collect the corrected grade cards/PDC from Department of Examination.",
+        "6": " Processing of correction on grade cards will take minimum 4 working days after you submit all the required documents at the Department of Examination.Exam Form Issues",
+        "7": " Yes, it is necessary to fill exam form for every end term exam."
+    }
+}
